@@ -4,7 +4,7 @@ A second brain where I am continuously organising my learnings/ideas/thoughts on
 
 ## Tech
 Design
-* [design](tech/design/figma.md)
+* [figma](tech/design/figma.md)
 
 Frontend
 * [css](tech/frontend/css.md)
