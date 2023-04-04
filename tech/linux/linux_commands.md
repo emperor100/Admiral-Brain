@@ -1,3 +1,0 @@
-### Listing files
-
-`ls -all`
