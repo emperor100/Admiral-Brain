@@ -1,0 +1,2 @@
+### Initializing gomod file based on the project name
+`go mod init telminal`
