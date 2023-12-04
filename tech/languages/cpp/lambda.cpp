@@ -11,7 +11,7 @@ Parameters: (parameters) - Similar to regular function parameters.
 
 Return Type: -> return_type - Specifying the return type is optional. If omitted, the return type is inferred from the return statements in the function body.
 
-Function Body: { /* code */ } - The actual code of the function.
+Function Body: { /* code } - The actual code of the function.
 */
 
 
