@@ -28,6 +28,23 @@ void captureClosure() {
     };
 }
 
+void mutableExample() {
+
+    int count = 0;
+
+    // Capture by value and make the lambda mutable
+    auto increment = [count]() mutable {
+        ++count;
+        return count;
+    };
+
+    // Using the lambda function
+    std::cout << "Initial Count: " << count << std::endl;
+    std::cout << "Incremented Count: " << increment() << std::endl;
+    std::cout << "Count after lambda: " << count << std::endl;
+
+}
+
 int main() {
     // Lambda function that takes two integers and returns their sum
     auto add = [](int a, int b) -> int {
@@ -39,6 +56,6 @@ int main() {
     std::cout << "Result: " << result << std::endl;
 
     captureClosure();
-
+    mutableExample();
     return 0;
 }
