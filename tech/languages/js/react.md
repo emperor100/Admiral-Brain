@@ -25,7 +25,7 @@ function MyComponent() {
 }
 ```
 
-Resolution:
+Resolution: By using the functional form, you guarantee that you're working with the latest state, as React will pass the most recent state to your update function.
 ```jsx
 setCount(prevCount => prevCount + 1);
 ```
