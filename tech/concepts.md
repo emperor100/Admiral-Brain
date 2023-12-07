@@ -14,3 +14,7 @@ https://takeuforward.org/
   - Text streaming (ChatGPT)
   - Auction and biddings
   - System monitoring
+ 
+### Caret Browsing
+
+Caret Browsing is a feature in web browsers that allows users to navigate and select text on a webpage using the keyboard caret (cursor) instead of a mouse.
