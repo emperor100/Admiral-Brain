@@ -38,4 +38,9 @@
   - Any fool can try to defend his or her mistakes - and most fools do - but it raises one above the herd and gives one a feeling of nobility & exultation to admit one's mistake.
   - By fighting you never get enough, but by yielding you get more than you expected.
 
+### Principle 4: A Drop of honey: 
+
+  - If your temper is aroused and you tell'em a thing or two, you will have a fine time unloading your feelings. But what about the other person? will he share your pleasure? Will your belligerent tones, your hostile attitude, make it easy for him to agree with you?
+  - 
+
   
