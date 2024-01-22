@@ -7,8 +7,10 @@
   - [plot](general/plot.md)
   - english
     - [vocabs](general/english/vocabs.md)
+
 ## Books
   - [quotes](books/quotes.md)
+
 ### Self-help
 
 - [atomic-habits](books/self-help/atomic-habits.md)
