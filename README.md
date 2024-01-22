@@ -1,12 +1,7 @@
-# Project Directory Structure
+
+This is the repository where I keep all my learnings
 
 ------
-
-## General
-  - [mangoes.jpeg](general/mangoes.jpeg)
-  - [plot](general/plot.md)
-  - english
-    - [vocabs](general/english/vocabs.md)
 
 ## Books
   - [quotes](books/quotes.md)
@@ -64,3 +59,8 @@
 
 - [setupVPN](tech/process/setupVPN.md)
 
+## General
+- [mangoes.jpeg](general/mangoes.jpeg)
+- [plot](general/plot.md)
+- english
+    - [vocabs](general/english/vocabs.md)
