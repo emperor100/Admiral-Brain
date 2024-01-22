@@ -1,4 +1,8 @@
 
+### Linux commands
+
+```shell
+
 # During Setup
 
 npm install/npm ci
@@ -150,3 +154,4 @@ npm install -g localtunnel
 lt --port 80 --local-host www.acodechef.com --subdomain acodechef --print-requests
 
 # TESTING PART
+```
