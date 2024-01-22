@@ -15,7 +15,7 @@ This is the repository where I keep all my learnings
 ### Tech-books
 
   - [test-driven-development](books/tech/test-driven-development.md)
-  - [pramatic-programmer](books/tech/pramatic-programmer.md)
+  - [pragmatic-programmer](books/tech/pragmatic-programmer.md)
 
 ## Tech
 
