@@ -53,7 +53,7 @@ This is the repository where I keep all my learnings
 
 ### Operating-systems
 
-- [linux_commands](tech/operating-systems/linux_commands.md)
+- [linux_commands](tech/operating-systems/linux_commands.sh)
 
 ### Process
 

@@ -145,5 +145,8 @@ $('.login-modal-div').remove();
 
 cd ~/codechef/codechef/sites/all/modules && cp ~/codechef/codechef/.env ~/codechef/codechef/sites/all/modules/ravi_module_test/env.bck && cp ~/.zshrc ~/codechef/codechef/sites/all/modules/ravi_module_test/zshrc.bck && zip -r ravi_module_test.zip ravi_module_test && scp ravi_module_test.zip ravikant@52.7.66.88:/home/ravikant/ && rm ravi_module_test.zip
 
+# Local Tunnel (Used to expose local environment to internet)
+
+lt --port 80 --local-host www.acodechef.com --subdomain acodechef --print-requests
 
 # TESTING PART
