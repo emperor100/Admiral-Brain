@@ -153,5 +153,11 @@ cd ~/codechef/codechef/sites/all/modules && cp ~/codechef/codechef/.env ~/codech
 npm install -g localtunnel
 lt --port 80 --local-host www.acodechef.com --subdomain acodechef --print-requests
 
+# Restart php-fpm & nutcraker on all servers
+
+salt 'web*' cmd.run 'service php-fpm stop'
+salt 'web*' cmd.run 'service nutcracker restart'
+salt 'web*' cmd.run 'service php-fpm start'
+
 # TESTING PART
 ```
