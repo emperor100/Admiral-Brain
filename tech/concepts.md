@@ -1,6 +1,9 @@
 ### MDN Glossary 
 https://developer.mozilla.org/en-US/docs/Glossary
 
+### Resilient Web Design
+https://resilientwebdesign.com/
+
 ### System Design Courses
 https://takeuforward.org/
 
