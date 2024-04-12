@@ -159,5 +159,9 @@ salt 'web*' cmd.run 'service php-fpm stop'
 salt 'web*' cmd.run 'service nutcracker restart'
 salt 'web*' cmd.run 'service php-fpm start'
 
+
+# Run Rankings Code 
+php /var/www/rankings/current/update_rankings.php --service CodeChef -delay 1000
+
 # TESTING PART
 ```
