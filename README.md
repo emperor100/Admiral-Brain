@@ -9,6 +9,7 @@
 - [atomic-habits](books/self-help/atomic-habits.md)
 - [how-to-finish-everything-you-start](books/self-help/how-to-finish-everything-you-start.md)
 - [how-to-win-friends-and-influence-people](books/self-help/how-to-win-friends-and-influence-people.md)
+- [deep-work](books/self-help/deep-work.md)
 
 ### Tech-books
 
