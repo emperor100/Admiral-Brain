@@ -31,3 +31,7 @@ Resolution: By using the functional form, you guarantee that you're working with
 ```jsx
 setCount(prevCount => prevCount + 1);
 ```
+
+Useful resources to understand React rendering:
+
+- [I2Blog](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
