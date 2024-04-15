@@ -1,3 +1,5 @@
+### Hoisting
+```js
 /* Hoisting */
 
 // Functions and variables are stored in memory for an execution context before we execute our code. This is called hoisting.
@@ -13,3 +15,6 @@ function sum(a, b) {
 
 const number = 10;
 var name = 'Ravi';
+```
+
+

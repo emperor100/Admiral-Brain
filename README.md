@@ -1,6 +1,3 @@
-
-This is the repository where I keep all my learnings
-
 ------
 
 ## Books
@@ -40,7 +37,7 @@ This is the repository where I keep all my learnings
 
 ### JS
 
-- [javascript.js](tech/languages/js/javascript.js)
+- [javascript](tech/languages/js/javascript.md)
 - [react](tech/languages/js/react.md)
 
 ### Cpp
