@@ -18,3 +18,7 @@ var name = 'Ravi';
 ```
 
 
+### Disadvantages of forEach & why to avoid it
+
+https://community.appsmith.com/content/blog/dark-side-foreach-why-you-should-think-twice-using-it?ref=dailydev
+
