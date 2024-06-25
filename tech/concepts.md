@@ -30,4 +30,8 @@ https://survey.stackoverflow.co/2023/#stack-overflow-site-use-newso-sites
 
 https://conventionalcomments.org/
 
+### Clean Code guidelines
+
+https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29
+
 
