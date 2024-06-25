@@ -26,3 +26,8 @@ Caret Browsing is a feature in web browsers that allows users to navigate and se
 
 https://survey.stackoverflow.co/2023/#stack-overflow-site-use-newso-sites
 
+### Comments during Code Review
+
+https://conventionalcomments.org/
+
+
