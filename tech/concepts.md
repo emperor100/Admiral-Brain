@@ -23,18 +23,14 @@ https://takeuforward.org/
 Caret Browsing is a feature in web browsers that allows users to navigate and select text on a webpage using the keyboard caret (cursor) instead of a mouse.
 
 ### Stackoverflow Survey
-
-[link](https://survey.stackoverflow.co/2023/#stack-overflow-site-use-newso-sites)
+https://survey.stackoverflow.co/2023/#stack-overflow-site-use-newso-sites
 
 ### Comments during Code Review
-
-[link](https://conventionalcomments.org/)
+https://conventionalcomments.org/
 
 ### Clean Code guidelines
-
-[link](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
+https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29
 
 ### Architectural Styles and the Design of Network-based Software Architectures
-
-[link](https://ics.uci.edu/~fielding/pubs/dissertation/top.htm)
+https://ics.uci.edu/~fielding/pubs/dissertation/top.htm
 
