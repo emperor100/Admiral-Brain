@@ -24,14 +24,17 @@ Caret Browsing is a feature in web browsers that allows users to navigate and se
 
 ### Stackoverflow Survey
 
-https://survey.stackoverflow.co/2023/#stack-overflow-site-use-newso-sites
+[link](https://survey.stackoverflow.co/2023/#stack-overflow-site-use-newso-sites)
 
 ### Comments during Code Review
 
-https://conventionalcomments.org/
+[link](https://conventionalcomments.org/)
 
 ### Clean Code guidelines
 
-https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29
+[link](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
 
+### Architectural Styles and the Design of Network-based Software Architectures
+
+[link](https://ics.uci.edu/~fielding/pubs/dissertation/top.htm)
 
