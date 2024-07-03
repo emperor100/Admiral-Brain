@@ -34,3 +34,6 @@ https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29
 ### Architectural Styles and the Design of Network-based Software Architectures
 https://ics.uci.edu/~fielding/pubs/dissertation/top.htm
 
+### Engineering Blogs and System Design
+
+https://medium.com/javarevisited/40-must-read-engineering-blogs-to-learn-system-design-and-software-architecture-in-2024-aaa7c4f71ee6
