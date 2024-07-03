@@ -59,7 +59,7 @@
 - [setupVPN](tech/process/setupVPN.md)
 
 ## General
-- [mangoes.jpeg](general/mangoes.jpeg)
+- [General Intelligence](general/general_intelligence.md)
 - [plot](general/plot.md)
 - english
     - [vocabs](general/english/vocabs.md)
