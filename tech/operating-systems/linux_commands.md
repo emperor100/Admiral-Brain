@@ -163,5 +163,13 @@ salt 'web*' cmd.run 'service php-fpm start'
 # Run Rankings Code 
 php /var/www/rankings/current/update_rankings.php --service CodeChef -delay 1000
 
+# Generate random SSL Certificate
+
+apt install openssl
+
+openssl genrsa -out <name>.key 2048
+
+openssl req -x509 -new -key <name>.key -out <cacert>.pem -days 365
+
 # TESTING PART
 ```
