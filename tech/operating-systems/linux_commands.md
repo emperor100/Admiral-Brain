@@ -171,5 +171,12 @@ openssl genrsa -out <name>.key 2048
 
 openssl req -x509 -new -key <name>.key -out <cacert>.pem -days 365
 
+# Kill queries running for more that 20 seconds
+
+out1=$(mysql -ucodechef -p<passowrd> -hccdbinstance.c7teckpg2ocf.us-east-1.rds.amazonaws.com --disable-column-names  -e "select concat('KILL ',id,';') from information_schema.processlist where user = 'codechef' and time > 20;")
+
+out2=$(mysql -ucodechef -p<passowrd> -hccdbinstance.c7teckpg2ocf.us-east-1.rds.amazonaws.com --disable-column-names  -e "$out1")
+
+
 # TESTING PART
 ```
