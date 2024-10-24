@@ -25,7 +25,17 @@ sudo su
 sudo salt 'web*' cmd.run 'salt-call state.highstate'
 sudo salt 'web*' cmd.run 'sudo service nginx restart'
 
-# Grant permissions on a folder
+## Deploy on all the servers during the contest
+# Check version on each server:
+sudo salt 'web*' cmd.run 'cat /var/www/codechef/current/version'
+
+# Deploy latest version on each server:
+sudo salt 'web*' cmd.run '/etc/deploy_scripts/trigger_build.sh'
+
+# During manual deploy, parameter store is updated first. So you can just start manual deploy and then run the above command on ops.
+
+
+## Grant permissions on a folder
 
 chmod u+w sites/default/settings.php
 chmod u+w sites/default/
