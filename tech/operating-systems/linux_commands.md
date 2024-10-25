@@ -187,6 +187,13 @@ out1=$(mysql -ucodechef -p<passowrd> -hccdbinstance.c7teckpg2ocf.us-east-1.rds.a
 
 out2=$(mysql -ucodechef -p<passowrd> -hccdbinstance.c7teckpg2ocf.us-east-1.rds.amazonaws.com --disable-column-names  -e "$out1")
 
+## Transfer file faster from S3 to local
+
+Checkout https://github.com/peak/s5cmd
+
+s5cmd --credentials-file ~/.your-credentials-file cp 's3://codechef_private/solutions/*' ./your-local-directory
+Make sure you use server with large number of cores
+
 
 # TESTING PART
 ```
