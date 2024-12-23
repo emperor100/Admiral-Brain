@@ -37,3 +37,8 @@ https://ics.uci.edu/~fielding/pubs/dissertation/top.htm
 ### Engineering Blogs and System Design
 
 https://medium.com/javarevisited/40-must-read-engineering-blogs-to-learn-system-design-and-software-architecture-in-2024-aaa7c4f71ee6
+
+
+### Must Know Resources
+
+https://must-know-resources-for-programmers.giessen.dev/?ref=dailydev
