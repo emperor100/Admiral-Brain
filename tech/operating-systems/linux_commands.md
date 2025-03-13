@@ -195,5 +195,14 @@ s5cmd --credentials-file ~/.your-credentials-file cp 's3://codechef_private/solu
 Make sure you use server with large number of cores
 
 
+## Labs Start Nginx Proxy
+docker run --detach \
+    --name nginx-proxy \
+    --publish 80:80 \
+    --volume /var/run/docker.sock:/tmp/docker.sock:ro \
+    nginxproxy/nginx-proxy:1.7
+
+
+
 # TESTING PART
 ```
