@@ -91,6 +91,10 @@ sudo lsof -i -P -n | grep LISTEN
 df -h
 ebsnvme-id /dev/nvme1n1
 
+OR
+
+lsblk -o NAME,MOUNTPOINT,SIZE,SERIAL
+
 # Extend EBS storage with same i-nodes
 
 df -i
