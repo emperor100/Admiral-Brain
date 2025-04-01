@@ -86,6 +86,11 @@ chkconfig --list
 
 sudo lsof -i -P -n | grep LISTEN
 
+# Find EBS volume id on AWS from server
+
+df -h
+ebsnvme-id /dev/nvme1n1
+
 # Extend EBS storage with same i-nodes
 
 df -i
