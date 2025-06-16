@@ -1,0 +1,15 @@
+Whitelist below URLs
+static.codechef.com
+www.codechef.com
+cdn.codechef.com
+www.googleoptimize.com
+ajax.googleapis.com
+fonts.googleapis.com
+www.googletagmanager.com
+fonts.gstatic.com
+www.codechef.com
+s3.amazonaws.com
+cdnjs.cloudflare.com
+*.codechef-apps.com
+
+
